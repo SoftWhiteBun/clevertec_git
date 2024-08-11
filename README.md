@@ -10,3 +10,6 @@ commit 1 release
 commit 2 release
 commit 3 release
 commit 4 release
+commit 4 feature major
+commit 5 feature major
+

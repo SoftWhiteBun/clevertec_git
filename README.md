@@ -12,4 +12,7 @@ commit 3 release
 commit 4 release
 commit 4 feature major
 commit 5 feature major
-
+commit 1 feature_minor
+commit 2 feature_minor
+commit 3 feature_minor
+commit 4 feature_minor

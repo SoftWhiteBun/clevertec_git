@@ -16,3 +16,4 @@ commit 1 feature_minor
 commit 2 feature_minor
 commit 3 feature_minor
 commit 4 feature_minor
+commit release_2

@@ -6,3 +6,4 @@ hotfix
 commit 1 feature major
 commit 2 feature major
 commit 3 feature major
+commit 1 release
